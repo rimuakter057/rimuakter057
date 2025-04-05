@@ -1,88 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rimu Akter's Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f7f6;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      text-align: center;
-    }
-    .content {
-      max-width: 600px;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    h1 {
-      font-size: 2.5rem;
-      font-weight: bold;
-    }
-    .highlight {
-      color: #FF5722;
-      font-weight: bold;
-    }
-    .typed-text {
-      display: inline;
-      font-weight: bold;
-      color: #2196F3;
-    }
-    a {
-      color: #0D47A1;
-      text-decoration: none;
-    }
-    .typing {
-      font-size: 1.2rem;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
+# 👋 **Hi, I'm Rimu Akter!**
 
-<div class="content">
-  <h1>👋 Hi, I'm <span class="highlight">Rimu Akter!</span></h1>
-  <p>I'm learning <span class="highlight">Flutter</span> and aiming to become a skilled Software Engineer in the future.</p>
-  <p>So far, I've worked with <span class="highlight">Flutter UI</span>, <span class="highlight">GetX</span>, <span class="highlight">Firebase</span>, and <span class="highlight">API integration</span>.</p>
-  <p>Recently, I worked on building an <span class="highlight">e_commerce app</span> and improving my Flutter skills.</p>
-  <p>I'm currently learning <span class="highlight">software engineering concepts</span>.</p>
-  
-  <p>How to reach me: <a href="https://www.linkedin.com" target="_blank">https://www.linkedin.com/in/rimu-akter-32923233a/</a></p>
-  <p>Pronouns: She/Her</p>
+Welcome to my GitHub profile. I'm an enthusiastic **Flutter developer** on a journey to become a skilled **Software Engineer**. Currently, I'm diving deep into Flutter and working on enhancing my technical skills.
 
-  <p class="typing" id="typing-animation">Fun fact: I love learning new technologies and building practical projects!</p>
+###  What I've Worked On:
+- **Flutter UI**: Designing beautiful and responsive user interfaces
+- **GetX**: Implementing efficient state management
+- **Firebase**: Integrating authentication and real-time data
+- **API Integration**: Connecting mobile apps to backend services seamlessly
 
-  <div class="typing" id="animated-text"></div>
+### 🔥 Recent Projects:
+- Recently, I worked on building an **e-commerce app**, where I focused on improving my **Flutter** skills and learning about app architecture.
 
-  <script>
-    let text = 'Assalamu Alaikum!';
-    let i = 0;
-    let typingAnimation = document.getElementById('typing-animation');
+### 🌱 Currently Learning:
+- Expanding my knowledge in **Software Engineering concepts**
+- Diving deeper into **Flutter** and **mobile app architecture patterns** for scalable applications.
 
-    function typeText() {
-      if (i < text.length) {
-        typingAnimation.innerHTML += text.charAt(i);
-        i++;
-        setTimeout(typeText, 150);
-      }
-    }
+### 📫 Let's Connect:
+- **LinkedIn**: [Your LinkedIn link]
 
-    window.onload = function() {
-      typeText();
-    };
-  </script>
-</div>
+### 🌟 Fun Fact:
+I have a strong passion for **learning new technologies** and creating **real-world, practical projects**. I enjoy the process of building something useful from scratch! 🚀
 
-</body>
-</html>
-
-
+### 💬 Pronouns:
+**She/Her**
