@@ -16,10 +16,4 @@ Welcome to my GitHub profile. I'm an enthusiastic **Flutter developer** on a jou
 - Diving deeper into **Flutter** and **mobile app architecture patterns** for scalable applications.
 
 ### 📫 Let's Connect:
-- **LinkedIn**: [Your LinkedIn link]
-
-### 🌟 Fun Fact:
-I have a strong passion for **learning new technologies** and creating **real-world, practical projects**. I enjoy the process of building something useful from scratch! 🚀
-
-### 💬 Pronouns:
-**She/Her**
+- **LinkedIn**: [[My LinkedIn link]](https://www.linkedin.com/in/rimu-akter-32923233a/)
