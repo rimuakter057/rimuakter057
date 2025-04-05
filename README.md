@@ -26,8 +26,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimuakter057&show_icons=true&locale=en" alt="rimuakter057" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimuakter057&" alt="rimuakter057" /></p>
+
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=rimuakter057&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 
 
