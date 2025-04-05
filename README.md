@@ -31,9 +31,7 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=rimuakter057&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 
