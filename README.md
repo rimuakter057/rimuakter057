@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimuakter057&label=Profile%20views&color=0e75b6&style=flat" alt="rimuakter057" /> </p>
 
-- 🔭 I’m currently working on [crafty_bay](https://github.com/rimuakter057/crafty_bay)
-
 - 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **Dart,Flutter widgets, API, Getx**
