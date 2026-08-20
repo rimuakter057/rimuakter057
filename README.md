@@ -104,15 +104,6 @@
 
 > Some ongoing commercial projects are not publicly available due to company confidentiality and ongoing development.
 
----
-
-## 🎓 Education
-
-**Diploma in Computer Science and Technology**  
-Dinajpur Polytechnic Institute  
-Completed: 2025
-
----
 
 ## 📫 Connect With Me
 
